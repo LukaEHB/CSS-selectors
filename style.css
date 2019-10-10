@@ -1,0 +1,20 @@
+li {
+  color: blue;
+}
+
+.red,
+p {
+  color: red;
+}
+
+#banana {
+  color: yellow;
+}
+
+.header>h1 {
+  color: coral;
+}
+
+/* h1+p {
+  background-color: brown;
+} */
